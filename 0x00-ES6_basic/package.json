@@ -1,0 +1,16 @@
+{
+  "name": "0x00-ES6_basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "0-constants.js",
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
