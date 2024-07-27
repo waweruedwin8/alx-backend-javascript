@@ -11,4 +11,3 @@ export function getLast(){
 	return 'is Okey';
 }
 console.log('${taskFirst()} ${taskNext()} ${getLast()}');
-
